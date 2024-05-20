@@ -53,6 +53,7 @@ const SkillCard = styled.article`
   flex-grow: 1;
   flex-direction: column;
   padding: 3px 0;
+  width: 75%;
 `;
 
 const SkillTitle = styled.h3`
