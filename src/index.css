@@ -1,0 +1,12 @@
+body,
+html {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}

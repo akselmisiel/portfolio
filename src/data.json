@@ -1,0 +1,78 @@
+{
+  "skills": [
+    {
+      "title": "JavaScript",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "React.Js",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "title": "Node.Js",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "projects": [
+    {
+      "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/02c18f14dfbd1495b107eba65b7e2c5188460534d4f8c3ccc1c96087d65fd1ac?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&",
+      "title": "Workintech",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "tags": ["react", "redux", "axios"],
+      "links": [
+        { "text": "Github", "href": "https://github.com/akselmisiel" },
+        { "text": "View Site", "href": "https://example.com" }
+      ]
+    },
+    {
+      "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/a6b9224e3de2208d63b01e2bc203bb087370ff9174f7ee18540ac9d12b5fd990?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&",
+      "title": "Random Jokes",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "tags": ["react", "redux", "axios"],
+      "links": [
+        { "text": "Github", "href": "https://github.com/akselmisiel" },
+        { "text": "View Site", "href": "https://example.com" }
+      ]
+    },
+    {
+      "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/1f5e8d2a72d0c886336fa8d18ab6ba061273592388812f1c889e41cf8e718e12?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&",
+      "title": "Journey",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
+      "tags": ["react", "redux", "axios"],
+      "links": [
+        { "text": "Github", "href": "https://github.com/akselmisiel" },
+        { "text": "View Site", "href": "" }
+      ]
+    }
+  ],
+  "profile": {
+    "title": "Profile",
+    "birthdate": "22.01.2004",
+    "city": "İstanbul",
+    "education": "Bahçeşehir Ünv. Yazılım Mühendisliği",
+    "degree": "Devam ediyor",
+    "role": "Frontend, UI",
+    "about": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia. Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam!"
+  },
+  "hero": {
+    "name": "Aksel Mişiel",
+    "title": "Creative thinker\nMinimalism lover",
+    "description": "Hi, I’m Aksel. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+    "actions": [
+      { "text": "Hire me", "type": "button" },
+      {
+        "text": "Github",
+        "type": "icon",
+        "srcLight": "./src/assets/github-light.png",
+        "srcDark": "./src/assets/github-dark.png"
+      },
+      {
+        "text": "Linkedin",
+        "type": "icon",
+        "srcLight": "./src/assets/LinkedIn-light.png",
+        "srcDark": "./src/assets/LinkedIn-dark.png"
+      }
+    ],
+    "imageSrc": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
+  }
+}
