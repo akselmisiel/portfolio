@@ -63,14 +63,14 @@
       {
         "text": "Github",
         "type": "icon",
-        "srcLight": "./src/assets/github-light.png",
-        "srcDark": "./src/assets/github-dark.png"
+        "srcLight": "https://cdn.builder.io/api/v1/image/assets/TEMP/c346300dd4522645cbd0dbb8abfb15398dea34621d7e40312a7c3801dcc9e033?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&",
+        "srcDark": "https://cdn.builder.io/api/v1/image/assets/TEMP/9c80b333188a165b507ffbb46b705a12ddd3d31776c2c016f78d16287c345cef?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&"
       },
       {
         "text": "Linkedin",
         "type": "icon",
-        "srcLight": "./src/assets/LinkedIn-light.png",
-        "srcDark": "./src/assets/LinkedIn-dark.png"
+        "srcLight": "https://cdn.builder.io/api/v1/image/assets/TEMP/37a29a4b6d31a99be62ddc7f14d1cb17f6a3c88819ab3fd958c7db0c684e0b7a?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&",
+        "srcDark": "https://cdn.builder.io/api/v1/image/assets/TEMP/665e6f3452c9c949ccb2cc72661b1d7f9c92b70659dd1a1451190391c89d610c?apiKey=f815a3ee1f7548b2a7d90a7fb5adfe25&"
       }
     ],
     "imageSrc": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
