@@ -63,14 +63,14 @@
       {
         "text": "Github",
         "type": "icon",
-        "srcLight": "/src/assets/github-light.svg",
-        "srcDark": "/src/assets/github-dark.svg"
+        "srcLight": "./src/assets/github-light.png",
+        "srcDark": "./src/assets/github-dark.png"
       },
       {
         "text": "Linkedin",
         "type": "icon",
-        "srcLight": "/src/assets/LinkedIn-light.svg",
-        "srcDark": "/src/assets/LinkedIn-dark.svg"
+        "srcLight": "./src/assets/LinkedIn-light.png",
+        "srcDark": "./src/assets/LinkedIn-dark.png"
       }
     ],
     "imageSrc": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg"
